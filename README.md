@@ -1,6 +1,6 @@
 # Speech Therapy Project
 
-A template repository with wiki for a team project at JCE's software engineering course
+Gives A possibility for  speech therapists to save document that contains data about there clients
 
 ![project logo (this one is taken from basecamp)](http://klipfolio.com/sites/default/files/integrations/basecamp.png)
 
